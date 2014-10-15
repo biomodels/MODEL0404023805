@@ -1,3 +1,21 @@
+# MODEL0404023805: Nutsch2005_phototaxis_noncyc_attractant_dark
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL0404023805.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL0404023805.git@20140916`
+
+
+# Model Notes
 
 
 A quantitative model of the switch cycle of an archaeal flagellar motor and
@@ -377,4 +395,5 @@ Dharuri H, Endler L, Chelliah V, Li L, He E, Henry A, Stefan MI, Snoep JL,
 Hucka M, Le Novère N, Laibe C (2010) BioModels Database: An enhanced, curated
 and annotated resource for published quantitative kinetic models. BMC Syst
 Biol., 4:92.](http://www.ncbi.nlm.nih.gov/pubmed/20587024)
+
 
